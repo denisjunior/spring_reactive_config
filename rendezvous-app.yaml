@@ -9,6 +9,6 @@ spring:
     activate:
       on-profile: local
   r2dbc: 
-    url: r2dbc:mariadb://localhost:7701/rendezvous-db
+    url: r2dbc:mariadb://localhost:7702/rendezvous-db
     username: rendezvous-user
     password: rendezvous-pwd-01

@@ -8,6 +8,6 @@ spring:
     activate:
       on-profile: local
   r2dbc:
-    url: r2dbc:mariadb://localhost:7702/prescription-db
+    url: r2dbc:mariadb://localhost:7701/prescription-db
     username: prescription-user
     password: prescription-pwd-01
